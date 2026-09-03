@@ -1,0 +1,52 @@
+gl_ref,bank_ref,gl_amount,bank_amount,amount_delta,gl_date,bank_date,counterparty,strategy,confidence,note
+GL2026070038,BK90030,36636.14,36636.14,0.0,2026-07-10,2026-07-10,Wayne Freight,S1_exact_ref+amount,high,
+GL2026070012,BK90034,-6122.93,-6078.1,44.83,2026-07-30,2026-07-30,Soylent Foods Inc,S1_exact_ref+fee_drift,medium,"amount differs by 44.83 (within 3% tolerance, likely fee/FX)"
+GL2026070008,BK90031,20372.1,20372.1,0.0,2026-07-11,2026-07-11,Oscorp Chemicals,S1_exact_ref+amount,high,
+GL2026070020,BK90011,8338.98,8338.98,0.0,2026-08-08,2026-08-08,Cyberdyne Systems,S1_exact_ref+amount,high,
+GL2026070029,BK90037,4500.02,4438.43,-61.59,2026-08-02,2026-08-02,Hooli Cloud Services,S1_exact_ref+fee_drift,medium,"amount differs by 61.59 (within 3% tolerance, likely fee/FX)"
+GL2026070041,BK90016,11675.71,11675.71,0.0,2026-07-16,2026-07-16,Acme Supply Co,S1_exact_ref+amount,high,
+GL2026070025,BK90014,-24038.22,-24038.22,0.0,2026-07-14,2026-07-14,Cyberdyne Systems,S1_exact_ref+amount,high,
+GL2026070054,BK90035,-22781.76,-22566.46,215.3,2026-07-16,2026-07-16,Tyrell Components,S1_exact_ref+fee_drift,medium,"amount differs by 215.30 (within 3% tolerance, likely fee/FX)"
+GL2026070021,BK90023,18306.94,18306.94,0.0,2026-07-11,2026-07-11,Hooli Cloud Services,S1_exact_ref+amount,high,
+GL2026070051,BK90013,43474.35,43474.35,0.0,2026-07-15,2026-07-15,Globex Manufacturing,S1_exact_ref+amount,high,
+GL2026070001,BK90021,1346.76,1346.76,0.0,2026-08-10,2026-08-10,Globex Manufacturing,S1_exact_ref+amount,high,
+GL2026070024,BK90002,3317.12,3317.12,0.0,2026-07-26,2026-07-26,Stark Materials,S1_exact_ref+amount,high,
+GL2026070006,BK90018,-34411.54,-34411.54,0.0,2026-08-05,2026-08-05,Umbrella Logistics,S1_exact_ref+amount,high,
+GL2026070031,BK90019,-18561.12,-18561.12,0.0,2026-08-08,2026-08-08,Globex Manufacturing,S1_exact_ref+amount,high,
+GL2026070052,BK90032,-11538.52,-11538.52,0.0,2026-07-05,2026-07-05,Soylent Foods Inc,S1_exact_ref+amount,high,
+GL2026070009,BK90036,45952.65,45055.17,-897.48,2026-07-10,2026-07-10,Umbrella Logistics,S1_exact_ref+fee_drift,medium,"amount differs by 897.48 (within 3% tolerance, likely fee/FX)"
+GL2026070039,BK90010,23529.78,23529.78,0.0,2026-08-08,2026-08-08,Wayne Freight,S1_exact_ref+amount,high,
+GL2026070018,BK90033,10174.91,10174.91,0.0,2026-07-24,2026-07-24,Wayne Freight,S1_exact_ref+amount,high,
+GL2026070005,BK90003,24331.25,24331.25,0.0,2026-07-14,2026-07-14,Umbrella Logistics,S1_exact_ref+amount,high,
+GL2026070035,BK90038,305.29,301.28,-4.01,2026-07-11,2026-07-11,Hooli Cloud Services,S1_exact_ref+fee_drift,medium,"amount differs by 4.01 (within 3% tolerance, likely fee/FX)"
+GL2026070015,BK90028,37141.32,37141.32,0.0,2026-08-12,2026-08-12,Umbrella Logistics,S1_exact_ref+amount,high,
+GL2026070014,BK90017,33863.76,33863.76,0.0,2026-08-06,2026-08-06,Umbrella Logistics,S1_exact_ref+amount,high,
+GL2026070053,BK90022,-6481.12,-6481.12,0.0,2026-07-14,2026-07-14,Soylent Foods Inc,S1_exact_ref+amount,high,
+GL2026070055,BK90058,-4788.14,-4788.14,0.0,2026-07-13,2026-07-13,Globex Manufacturing,S1_exact_ref+amount,high,
+GL2026070045,BK90025,25955.32,25955.32,0.0,2026-07-14,2026-07-14,Gringotts Treasury Services,S1_exact_ref+amount,high,
+GL2026070017,BK90006,40062.18,40062.18,0.0,2026-07-30,2026-07-30,Cyberdyne Systems,S1_exact_ref+amount,high,
+GL2026070011,BK90007,12807.32,12807.32,0.0,2026-07-23,2026-07-23,Massive Dynamic,S1_exact_ref+amount,high,
+GL2026070036,BK90001,8698.49,8698.49,0.0,2026-08-02,2026-08-02,Tyrell Components,S1_exact_ref+amount,high,
+GL2026070010,BK90008,18329.52,18329.52,0.0,2026-07-07,2026-07-07,Globex Manufacturing,S1_exact_ref+amount,high,
+GL2026070049,BK90027,11160.99,11160.99,0.0,2026-08-07,2026-08-07,Soylent Foods Inc,S1_exact_ref+amount,high,
+GL2026070034,BK90009,-5487.77,-5487.77,0.0,2026-08-11,2026-08-11,Wayne Freight,S1_exact_ref+amount,high,
+GL2026070019,BK90015,32857.76,32857.76,0.0,2026-08-14,2026-08-14,Gringotts Treasury Services,S1_exact_ref+amount,high,
+GL2026070003,BK90029,42840.79,42840.79,0.0,2026-08-13,2026-08-13,Oscorp Chemicals,S1_exact_ref+amount,high,
+GL2026070002,BK90024,6826.89,6826.89,0.0,2026-07-16,2026-07-16,Umbrella Logistics,S1_exact_ref+amount,high,
+GL2026070037,BK90020,40423.88,40423.88,0.0,2026-08-10,2026-08-10,Stark Materials,S1_exact_ref+amount,high,
+GL2026070043,BK90004,-6167.64,-6167.64,0.0,2026-08-04,2026-08-04,Tyrell Components,S1_exact_ref+amount,high,
+GL2026070033,BK90026,5631.3,5631.3,0.0,2026-08-13,2026-08-13,Oscorp Chemicals,S1_exact_ref+amount,high,
+GL2026070032,BK90005,46616.1,46616.1,0.0,2026-08-03,2026-08-03,Stark Materials,S1_exact_ref+amount,high,
+GL2026070004,BK90046,1670.8,1670.8,0.0,2026-08-07,2026-08-07,Wonka Distribution,S2_amount+date+counterparty,high,
+GL2026070023,BK90051,1686.0,1686.0,0.0,2026-07-15,2026-07-15,Aperture Hardware,S2_amount+date+counterparty,high,
+GL2026070027,BK90049,-43110.82,-43110.82,0.0,2026-08-07,2026-08-07,Wonka Distribution,S2_amount+date+counterparty,high,
+GL2026070028,BK90050,47872.04,47872.04,0.0,2026-07-24,2026-07-24,Umbrella Logistics,S2_amount+date+counterparty,high,
+GL2026070030,BK90048,-30173.29,-30173.29,0.0,2026-07-08,2026-07-08,Initech Consulting,S2_amount+date+counterparty,high,
+GL2026070042,BK90044,23404.64,23404.64,0.0,2026-07-06,2026-07-06,Oscorp Chemicals,S2_amount+date+counterparty,high,
+GL2026070044,BK90045,-12832.96,-12832.96,0.0,2026-08-05,2026-08-05,Initech Consulting,S2_amount+date+counterparty,high,
+GL2026070047,BK90047,24916.0,24916.0,0.0,2026-07-29,2026-07-29,Gringotts Treasury Services,S2_amount+date+counterparty,high,
+GL2026070013,BK90040,14178.58,14178.58,0.0,2026-07-06,2026-07-08,Soylent Foods Inc,S3_amount+delayed_settlement+counterparty,medium,bank date 2d after GL date - likely settlement delay
+GL2026070016,BK90041,4982.92,4982.92,0.0,2026-07-15,2026-07-17,Aperture Hardware,S3_amount+delayed_settlement+counterparty,medium,bank date 2d after GL date - likely settlement delay
+GL2026070022,BK90043,40480.46,40480.46,0.0,2026-08-13,2026-08-18,Wayne Freight,S3_amount+delayed_settlement+counterparty,medium,bank date 5d after GL date - likely settlement delay
+GL2026070040,BK90039,47297.63,47297.63,0.0,2026-07-24,2026-07-28,Gringotts Treasury Services,S3_amount+delayed_settlement+counterparty,medium,bank date 4d after GL date - likely settlement delay
+GL2026070046,BK90042,19241.78,19241.78,0.0,2026-08-15,2026-08-21,Stark Materials,S3_amount+delayed_settlement+counterparty,medium,bank date 6d after GL date - likely settlement delay

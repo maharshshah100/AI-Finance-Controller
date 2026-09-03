@@ -1,0 +1,12 @@
+side,ref,amount,date,counterparty,category,detail
+bank,BK90012,-4788.14,2026-07-13,Globex Manufacturing,possible_duplicate_payment,Same amount+ref as already-matched GL2026070055; second bank entry for one ledger entry.
+bank,BK90057,40062.18,2026-07-30,Cyberdyne Systems,possible_duplicate_payment,Same amount+ref as already-matched GL2026070017; second bank entry for one ledger entry.
+ledger,GL2026070007,28346.36,2026-07-15,Hooli Cloud Services,unmatched_ledger_entry,No bank transaction found within tolerance/date window - likely awaiting settlement or booked in error.
+ledger,GL2026070026,6831.31,2026-07-10,Stark Materials,unmatched_ledger_entry,No bank transaction found within tolerance/date window - likely awaiting settlement or booked in error.
+ledger,GL2026070048,3213.64,2026-07-16,Umbrella Logistics,unmatched_ledger_entry,No bank transaction found within tolerance/date window - likely awaiting settlement or booked in error.
+ledger,GL2026070050,34020.19,2026-07-01,Globex Manufacturing,unmatched_ledger_entry,No bank transaction found within tolerance/date window - likely awaiting settlement or booked in error.
+bank,BK90054,112.34,2026-07-11,Interest earned - operating account,bank_only_item_no_gl_counterpart,"Description suggests a bank-generated item (fee/interest) never booked to the GL - needs a journal entry, not a match."
+bank,BK90053,-35.0,2026-08-03,Wire transfer fee,bank_only_item_no_gl_counterpart,"Description suggests a bank-generated item (fee/interest) never booked to the GL - needs a journal entry, not a match."
+bank,BK90056,-218.6,2026-08-02,Card processing fee batch,bank_only_item_no_gl_counterpart,"Description suggests a bank-generated item (fee/interest) never booked to the GL - needs a journal entry, not a match."
+bank,BK90052,-45.0,2026-08-02,Monthly account maintenance fee,bank_only_item_no_gl_counterpart,"Description suggests a bank-generated item (fee/interest) never booked to the GL - needs a journal entry, not a match."
+bank,BK90055,-50.0,2026-07-04,NSF fee - returned item,bank_only_item_no_gl_counterpart,"Description suggests a bank-generated item (fee/interest) never booked to the GL - needs a journal entry, not a match."

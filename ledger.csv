@@ -1,0 +1,56 @@
+gl_ref,gl_date,counterparty,gl_amount,direction,memo
+GL2026070001,2026-08-10,Globex Manufacturing,1346.76,credit,Invoice settlement GL2026070001 - Globex Manufacturing
+GL2026070002,2026-07-16,Umbrella Logistics,6826.89,credit,Invoice settlement GL2026070002 - Umbrella Logistics
+GL2026070003,2026-08-13,Oscorp Chemicals,42840.79,credit,Invoice settlement GL2026070003 - Oscorp Chemicals
+GL2026070004,2026-08-07,Wonka Distribution,1670.8,credit,Invoice settlement GL2026070004 - Wonka Distribution
+GL2026070005,2026-07-14,Umbrella Logistics,24331.25,credit,Invoice settlement GL2026070005 - Umbrella Logistics
+GL2026070006,2026-08-05,Umbrella Logistics,-34411.54,debit,Invoice settlement GL2026070006 - Umbrella Logistics
+GL2026070007,2026-07-15,Hooli Cloud Services,28346.36,credit,Invoice settlement GL2026070007 - Hooli Cloud Services
+GL2026070008,2026-07-11,Oscorp Chemicals,20372.1,credit,Invoice settlement GL2026070008 - Oscorp Chemicals
+GL2026070009,2026-07-10,Umbrella Logistics,45952.65,credit,Invoice settlement GL2026070009 - Umbrella Logistics
+GL2026070010,2026-07-07,Globex Manufacturing,18329.52,credit,Invoice settlement GL2026070010 - Globex Manufacturing
+GL2026070011,2026-07-23,Massive Dynamic,12807.32,credit,Invoice settlement GL2026070011 - Massive Dynamic
+GL2026070012,2026-07-30,Soylent Foods Inc,-6122.93,debit,Invoice settlement GL2026070012 - Soylent Foods Inc
+GL2026070013,2026-07-06,Soylent Foods Inc,14178.58,credit,Invoice settlement GL2026070013 - Soylent Foods Inc
+GL2026070014,2026-08-06,Umbrella Logistics,33863.76,credit,Invoice settlement GL2026070014 - Umbrella Logistics
+GL2026070015,2026-08-12,Umbrella Logistics,37141.32,credit,Invoice settlement GL2026070015 - Umbrella Logistics
+GL2026070016,2026-07-15,Aperture Hardware,4982.92,credit,Invoice settlement GL2026070016 - Aperture Hardware
+GL2026070017,2026-07-30,Cyberdyne Systems,40062.18,credit,Invoice settlement GL2026070017 - Cyberdyne Systems
+GL2026070018,2026-07-24,Wayne Freight,10174.91,credit,Invoice settlement GL2026070018 - Wayne Freight
+GL2026070019,2026-08-14,Gringotts Treasury Services,32857.76,credit,Invoice settlement GL2026070019 - Gringotts Treasury Services
+GL2026070020,2026-08-08,Cyberdyne Systems,8338.98,credit,Invoice settlement GL2026070020 - Cyberdyne Systems
+GL2026070021,2026-07-11,Hooli Cloud Services,18306.94,credit,Invoice settlement GL2026070021 - Hooli Cloud Services
+GL2026070022,2026-08-13,Wayne Freight,40480.46,credit,Invoice settlement GL2026070022 - Wayne Freight
+GL2026070023,2026-07-15,Aperture Hardware,1686.0,credit,Invoice settlement GL2026070023 - Aperture Hardware
+GL2026070024,2026-07-26,Stark Materials,3317.12,credit,Invoice settlement GL2026070024 - Stark Materials
+GL2026070025,2026-07-14,Cyberdyne Systems,-24038.22,debit,Invoice settlement GL2026070025 - Cyberdyne Systems
+GL2026070026,2026-07-10,Stark Materials,6831.31,credit,Invoice settlement GL2026070026 - Stark Materials
+GL2026070027,2026-08-07,Wonka Distribution,-43110.82,debit,Invoice settlement GL2026070027 - Wonka Distribution
+GL2026070028,2026-07-24,Umbrella Logistics,47872.04,credit,Invoice settlement GL2026070028 - Umbrella Logistics
+GL2026070029,2026-08-02,Hooli Cloud Services,4500.02,credit,Invoice settlement GL2026070029 - Hooli Cloud Services
+GL2026070030,2026-07-08,Initech Consulting,-30173.29,debit,Invoice settlement GL2026070030 - Initech Consulting
+GL2026070031,2026-08-08,Globex Manufacturing,-18561.12,debit,Invoice settlement GL2026070031 - Globex Manufacturing
+GL2026070032,2026-08-03,Stark Materials,46616.1,credit,Invoice settlement GL2026070032 - Stark Materials
+GL2026070033,2026-08-13,Oscorp Chemicals,5631.3,credit,Invoice settlement GL2026070033 - Oscorp Chemicals
+GL2026070034,2026-08-11,Wayne Freight,-5487.77,debit,Invoice settlement GL2026070034 - Wayne Freight
+GL2026070035,2026-07-11,Hooli Cloud Services,305.29,credit,Invoice settlement GL2026070035 - Hooli Cloud Services
+GL2026070036,2026-08-02,Tyrell Components,8698.49,credit,Invoice settlement GL2026070036 - Tyrell Components
+GL2026070037,2026-08-10,Stark Materials,40423.88,credit,Invoice settlement GL2026070037 - Stark Materials
+GL2026070038,2026-07-10,Wayne Freight,36636.14,credit,Invoice settlement GL2026070038 - Wayne Freight
+GL2026070039,2026-08-08,Wayne Freight,23529.78,credit,Invoice settlement GL2026070039 - Wayne Freight
+GL2026070040,2026-07-24,Gringotts Treasury Services,47297.63,credit,Invoice settlement GL2026070040 - Gringotts Treasury Services
+GL2026070041,2026-07-16,Acme Supply Co,11675.71,credit,Invoice settlement GL2026070041 - Acme Supply Co
+GL2026070042,2026-07-06,Oscorp Chemicals,23404.64,credit,Invoice settlement GL2026070042 - Oscorp Chemicals
+GL2026070043,2026-08-04,Tyrell Components,-6167.64,debit,Invoice settlement GL2026070043 - Tyrell Components
+GL2026070044,2026-08-05,Initech Consulting,-12832.96,debit,Invoice settlement GL2026070044 - Initech Consulting
+GL2026070045,2026-07-14,Gringotts Treasury Services,25955.32,credit,Invoice settlement GL2026070045 - Gringotts Treasury Services
+GL2026070046,2026-08-15,Stark Materials,19241.78,credit,Invoice settlement GL2026070046 - Stark Materials
+GL2026070047,2026-07-29,Gringotts Treasury Services,24916.0,credit,Invoice settlement GL2026070047 - Gringotts Treasury Services
+GL2026070048,2026-07-16,Umbrella Logistics,3213.64,credit,Invoice settlement GL2026070048 - Umbrella Logistics
+GL2026070049,2026-08-07,Soylent Foods Inc,11160.99,credit,Invoice settlement GL2026070049 - Soylent Foods Inc
+GL2026070050,2026-07-01,Globex Manufacturing,34020.19,credit,Invoice settlement GL2026070050 - Globex Manufacturing
+GL2026070051,2026-07-15,Globex Manufacturing,43474.35,credit,Invoice settlement GL2026070051 - Globex Manufacturing
+GL2026070052,2026-07-05,Soylent Foods Inc,-11538.52,debit,Invoice settlement GL2026070052 - Soylent Foods Inc
+GL2026070053,2026-07-14,Soylent Foods Inc,-6481.12,debit,Invoice settlement GL2026070053 - Soylent Foods Inc
+GL2026070054,2026-07-16,Tyrell Components,-22781.76,debit,Invoice settlement GL2026070054 - Tyrell Components
+GL2026070055,2026-07-13,Globex Manufacturing,-4788.14,debit,Invoice settlement GL2026070055 - Globex Manufacturing
